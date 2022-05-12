@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="14" viewBox="0 0 20 14">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="20" height="14" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="grid-icon" transform="translate(-392 -1713)">
+    <g id="Repeat_Grid_13" data-name="Repeat Grid 13" transform="translate(392 1713)" clip-path="url(#clip-path)">
+      <g transform="translate(-392 -1713)">
+        <rect id="Rectangle_466" data-name="Rectangle 466" width="6" height="4" rx="1" transform="translate(392 1713)" fill="#0057b8"/>
+        <rect id="Rectangle_466-2" data-name="Rectangle 466" width="6" height="4" rx="1" transform="translate(399 1713)" fill="#0057b8"/>
+        <rect id="Rectangle_466-3" data-name="Rectangle 466" width="6" height="4" rx="1" transform="translate(406 1713)" fill="#0057b8"/>
+      </g>
+      <g transform="translate(-392 -1708)">
+        <rect id="Rectangle_466-4" data-name="Rectangle 466" width="6" height="4" rx="1" transform="translate(392 1713)" fill="#0057b8"/>
+        <rect id="Rectangle_466-5" data-name="Rectangle 466" width="6" height="4" rx="1" transform="translate(399 1713)" fill="#0057b8"/>
+        <rect id="Rectangle_466-6" data-name="Rectangle 466" width="6" height="4" rx="1" transform="translate(406 1713)" fill="#0057b8"/>
+      </g>
+      <g transform="translate(-392 -1703)">
+        <rect id="Rectangle_466-7" data-name="Rectangle 466" width="6" height="4" rx="1" transform="translate(392 1713)" fill="#0057b8"/>
+        <rect id="Rectangle_466-8" data-name="Rectangle 466" width="6" height="4" rx="1" transform="translate(399 1713)" fill="#0057b8"/>
+        <rect id="Rectangle_466-9" data-name="Rectangle 466" width="6" height="4" rx="1" transform="translate(406 1713)" fill="#0057b8"/>
+      </g>
+    </g>
+  </g>
+</svg>
